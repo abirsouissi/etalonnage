@@ -42,7 +42,7 @@ cd etalonnage
 
 Exécutez le programme pour calculer la somme des valeurs d'étalonnage :
 
-    python somme_valeurs_etalonnage.py
+    Usage: python somme_valeurs_etalonnage.py <fichier_d'entrée>
 
 Technologies Utilisées
 
