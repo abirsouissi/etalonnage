@@ -34,15 +34,15 @@ La solution suit ces étapes :
 1. Clonez ce répertoire :
 
    ```bash
-   git clone https://github.com/votreutilisateur/parser-document-etalonnage.git
+   git clone https://github.com/abirsouissi/etalonnage.git
 
 Allez dans le répertoire du projet :
 
-cd parser-document-etalonnage
+cd etalonnage
 
 Exécutez le programme pour calculer la somme des valeurs d'étalonnage :
 
-    python calibration_sum.py
+    python somme_valeurs_etalonnage.py
 
 Technologies Utilisées
 
